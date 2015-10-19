@@ -1,0 +1,26 @@
+.icon_indicator {
+	position : absolute;
+}
+
+#icon_new_tab {
+	display : inline-block;
+	width: 0;
+	height: 0;
+	border-top: 16px solid #468DF0;
+	border-left: 16px solid transparent;
+}
+
+#icon_new_window {
+	display : inline-block;
+	width : 16px;
+	height : 16px;
+	background-color: #468DF0;
+}
+
+#icon_same_page {
+	display : inline-block;
+	width : 16px;
+	height : 16px;
+	background-color: #468DF0;
+	border-radius : 16px;
+}
